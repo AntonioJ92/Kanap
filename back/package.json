@@ -2,7 +2,7 @@
   "name": "kanap-backend",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://antonioj92.github.io/Booki",
+  "homepage": "https://antonioj92.github.io/Kanap",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
